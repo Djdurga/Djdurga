@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Durga Rani</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **data science and ml**
+- 🌱 I’m currently learning **data science and gen ai**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Djdurga](https://github.com/Djdurga)
 
