@@ -47,13 +47,6 @@
 
 ---
 
-## 📌 Featured Projects
-- 🔹 [**Airbnb Housing Analysis**](https://github.com/Djdurga/airbnb-housing-analysis) – Analyzed **1.5M listings** using SQL, GeoPandas & Tableau.  
-- 🔹 [**Flight Data Scraper**](https://github.com/Djdurga/flight-analysis) – Web scraping + cleaning + SQL insights on flights.  
-- 🔹 [**Smart Health Bot**](https://github.com/Djdurga/health-bot) – AI-powered **healthcare chatbot** built with LangGraph & LLMs.  
-- 🔹 [**Financial Assistant**](https://github.com/Djdurga/finance-ai) – AI-driven assistant for **personalized financial insights** using Gemini & Fi’s MCP Server.  
-
----
 
 ## ⚡ Fun Fact
 I love solving real-world problems with **data + AI** ✨  
